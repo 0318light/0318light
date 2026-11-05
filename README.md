@@ -16,7 +16,7 @@
 
 ## 🧑‍💻 Contact
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:[이메일 주소])
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:[0318light@naver.com])
 
 ## 🏅 Stats
 
