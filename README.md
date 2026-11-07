@@ -1,7 +1,3 @@
-# 안녕하세요, [이름]입니다 👋
-
-[클라우드/백엔드] 개발자를 목표로 [현재 공부 중인 내용]을 공부하고 있습니다.
-
 ## 🛠️ Tech Stacks
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
@@ -10,9 +6,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
 
-## 📂 Projects
-
-- **[저장소 이름](저장소 URL)**: 무엇을 하는 프로젝트이고 무엇을 배웠는지 한 줄로 설명
 
 ## 🧑‍💻 Contact
 
