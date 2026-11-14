@@ -1,10 +1,3 @@
-## 
-
-인하공업전문대학에서 공부하며 **백엔드 개발자**를 준비하고 있습니다.  
-Java/Spring과 Python(Flask·FastAPI)으로 웹 서비스를 만들고, 데이터 분석과 딥러닝도 함께 공부하고 있어요.
-
-<br>
-
 ## 🛠️ Tech Stacks
 
 ### Language
