@@ -28,6 +28,7 @@
 ![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=Android&logoColor=white)
 
 ### Data / AI
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=googlesheets&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
